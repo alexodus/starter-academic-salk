@@ -75,9 +75,9 @@ user_groups:
 - Visitors
 ---
 
-Dopo la laurea e la specializzazione in Pediatria mi sono perfezionato in **Gastroenterologia Pediatrica ed Endoscopia Digestiva**, con particolare interesse allo sviluppo di nuove metodiche endoscopiche non-invasive (videocapsula) , nello studio delle patologie allergiche ed eosinofiliche, e recentemente anche nella gestione della malattia celiaca.
+Dopo la laurea e la specializzazione in Pediatria mi sono perfezionato in **Gastroenterologia Pediatrica ed Endoscopia Digestiva**, con particolare interesse verso lo sviluppo di nuove metodiche endoscopiche non-invasive (videocapsula), lo studio delle patologie allergiche ed eosinofiliche, e recentemente anche la gestione della malattia celiaca.
 
-Sono stato Dirigente Medico di I livello di Pediatria presso l’Azienda Ospedaliera Universitaria Policlinico Umberto I di Roma e Assegnista di Ricerca presso il Dipartimento Materno Infantile e Scienze Urologiche della Sapienza – Università di Roma.
+Sono stato Dirigente Medico di I livello di Pediatria presso l’Azienda Ospedaliera Universitaria Policlinico Umberto I di Roma e Assegnista di Ricerca presso il Dipartimento Materno Infantile e Scienze Urologiche della Sapienza – Università di Roma dal 2015 al 2020.
 
 Sono attualmente **Ricercatore Universitario di Tipo B** presso il Dipartimento Materno Infantile e Scienze Urologiche della Sapienza – Università di Roma e Responsabile del servizio di Endoscopia Digestiva Pediatrica dello stesso dipartimento.
 
