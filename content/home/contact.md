@@ -29,4 +29,3 @@ content:
 design:
   columns: '2'
 ---
-Mi trovare anche su....
