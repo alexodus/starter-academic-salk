@@ -43,7 +43,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "J Crohns Colitis"
 publication_short: ""
 
 abstract: We aimed to provide an evidence-supported update of the ECCO-ESPGHAN guideline on the medical management of paediatric Crohn's disease [CD].
