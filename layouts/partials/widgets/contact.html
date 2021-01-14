@@ -13,9 +13,6 @@
 {{ $use_netlify_captcha := $st.Params.content.form.netlify.captcha | default true }}
 
 {{ $columns := $st.Params.design.columns | default "2" }}
-
-<a id="zl-url" class="zl-url" href="https://www.miodottore.it/salvatore-oliva/pediatra-gastroenterologo-allergologo/fondi" rel="nofollow" data-zlw-doctor="salvatore-oliva" data-zlw-type="big_with_calendar" data-zlw-opinion="false" data-zlw-hide-branding="true">Salvatore Oliva - MioDottore.it</a><script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
-
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   {{ with $st.Content }}{{ . }}{{ end }}
 
@@ -150,6 +147,10 @@
   <div id="map"></div>
   {{ end }}
 
+  <div class=mb-3>
+    <a id="zl-url" class="zl-url" href="https://www.miodottore.it/salvatore-oliva/pediatra-gastroenterologo-allergologo/fondi" rel="nofollow" data-zlw-doctor="salvatore-oliva" data-zlw-type="big_with_calendar" data-zlw-opinion="false" data-zlw-hide-branding="true">Salvatore Oliva - MioDottore.it</a><script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
+ </div>
+    
   
 </div>
 
